@@ -1,0 +1,6 @@
+LIBRARY Amiitool
+EXPORTS  
+	setKeysUnfixed
+	setKeysFixed
+	unpack
+	pack
