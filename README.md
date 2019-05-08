@@ -18,4 +18,5 @@ Hackiibo is a portage to .Net of the android [TagMo application](https://github.
 
 * Clone this repository
 * Make sure NFC reader/writer is plugged in
+* Download Amiibo Key Files (in `src/Hackiibo/keys`) & Amiibo dump (in `src/Hackiibo/amiibos`)
 * Open the solution and run *Hackiibo* project
