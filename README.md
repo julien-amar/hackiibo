@@ -7,7 +7,7 @@ Hackiibo is a portage to .Net of the android [TagMo application](https://github.
 * You will require the key files used in the Amiibo encryption.
 * Once you write an NFC tag, it is effectively permanent.
 
-# Requirements:
+## Requirements:
 * Amiibo Key Files (Don't ask me for these)
 * Some blank NTAG 215 tags
 * Amiibo dumps (Don't ask me for these)
