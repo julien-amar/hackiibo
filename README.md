@@ -1,16 +1,16 @@
 # hackiibo
-Hackiibo is a portage to .Net of the android ![TagMo application](https://github.com/HiddenRamblings/TagMo).
+Hackiibo is a portage to .Net of the android [TagMo application](https://github.com/HiddenRamblings/TagMo).
 
 ## Limitations:
 
-* Only NTAG215 tags can be used to clone Amiibos. no other type (eg: NTAG216/NTAG213) are supported.
+* Only NTAG215 tags can be used to clone Amiibos. no other type are supported.
 * You will require the key files used in the Amiibo encryption.
 * Once you write an NFC tag, it is effectively permanent.
 
 # Requirements:
-* Amiibo Key Files. (See limitations / Don't ask me for these)
+* Amiibo Key Files (Don't ask me for these)
 * Some blank NTAG 215 tags
-* Amiibo dumps. (Don't ask me for these)
+* Amiibo dumps (Don't ask me for these)
 
 ## Instructions:
 
