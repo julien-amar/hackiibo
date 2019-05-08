@@ -17,7 +17,7 @@ namespace Hackiibo
             if (!keyManager.HasUnFixedKey())
                 throw new Exception("UnFixed key is not initialized properly.");
 
-            var tagData = TagUtil.ReadTag("amiibos/SSB-Luigi.bin");
+            var tagData = TagUtil.ReadTag("amiibos/amiibo.bin");
 
             MifareUltralight mifare = MifareUltralight.GetTagInfo();
             if (mifare == null)
